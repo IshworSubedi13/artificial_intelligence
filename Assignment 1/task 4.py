@@ -26,5 +26,5 @@ words = my_split(sentence, " ")
 joined = my_join(words, ",")
 print(joined)
 
-for word in words:
-    print(word)
+for w in words:
+    print(w)
