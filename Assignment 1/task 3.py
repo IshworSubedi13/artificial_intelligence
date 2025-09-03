@@ -1,5 +1,6 @@
 product_price=[10, 14, 22, 33, 44, 13, 22, 55, 66, 77]
 total_sum=0
+print("Supermarket\n===========")
 
 while True:
     user_choice = int(input("Please select product (1-10) 0 to Quit): "))
