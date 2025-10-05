@@ -4,7 +4,6 @@ import seaborn as sns
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
 from sklearn import metrics
-import numpy as np
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.metrics import classification_report, confusion_matrix, accuracy_score
 
